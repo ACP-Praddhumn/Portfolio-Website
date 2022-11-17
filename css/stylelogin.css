@@ -5,11 +5,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 body {
-    min-height: 0vh;
+    min-height: 97vh;
     font-family: poppins, sans-serif;
     position: relative;
-    top: 60px;
-    left: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background: linear-gradient(to right, #333399, #ff00cc);
 
 }
@@ -20,9 +21,7 @@ body {
     padding: 1.5rem;
     border-radius: 10px;
     position: relative;
-    top: -50px;
-    left: -7%;
-
+  
 }
 .login::before{
     content: "";
