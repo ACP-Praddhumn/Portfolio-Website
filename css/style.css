@@ -207,10 +207,10 @@ h2{
 
 .top {
     text-decoration: none;
-    padding: 10px;
+    padding: 20px;
     font-family: sans-serif;
     color: #fff;
-    background: #000;
-    border-radius: 100px;
+    background: rgb(116, 8, 126);
+    border-radius: 150px;
   }
   
