@@ -1,10 +1,33 @@
 
 @import url(./fonts.css);
 
-{
-    margin: 0;
-    padding: 0;
-}
+
+
+ .navbar {
+    overflow: hidden;
+    background-color: ;
+    position: fixed;
+    top: 0;
+    width: 14%;
+  }
+  
+  .navbar a {
+    float: left;
+    width: 10%%;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 1px 1px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+  
+
 
 .header_area{
     min-height: 100vh;
@@ -24,7 +47,7 @@ img{
 
 nav{
     display:flex;
-    padding: 0% -1%;
+    padding: 5% 1%;
     justify-content: space-between;
     align-items: center;
 }
