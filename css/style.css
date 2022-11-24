@@ -8,22 +8,21 @@
     background-color: ;
     position: fixed;
     top: 0;
-    width: 14%;
+    width: 200%;
   }
   
   .navbar a {
     float: left;
-    width: 10%%;
+    width: 100%%;
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 1px 1px;
     text-decoration: none;
     font-size: 17px;
   }
   
   .navbar a:hover {
-    background: #ddd;
+    background:;
     color: black;
   }
   
@@ -47,7 +46,7 @@ img{
 
 nav{
     display:flex;
-    padding: 5% 1%;
+    padding: 5% 0%;
     justify-content: space-between;
     align-items: center;
 }
@@ -69,13 +68,13 @@ nav img{
 .nav-links ul li a{
 color: #fff;
 text-decoration: none;
-font-size: 13px;
+font-size: 15px;
 }
 
 .nav-links ul li::after{
     content: '';
     width: 0%;
-    height: 2px;
+    height: 1px;
     background: #f44336;
     display: block;
     margin : auto;
@@ -97,9 +96,9 @@ font-size: 13px;
     float: left;
     display: block;
     text-align: center;
-    padding: 14px 16px;
+    padding: 12px 10px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
   }
  
 .text-box{
