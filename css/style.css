@@ -154,7 +154,6 @@ nav .fa{
         z-index: 2;
         transition: 1s;
     }
-<<<<<<< HEAD
 
     nav .fa{ 
         display: block;
@@ -251,7 +250,7 @@ h2{
     background: #fff3f3;
     border-radius: 10px;
     margin-bottom: 5%;
-    padding: 200px 130ye depx;
+    padding: 200px 130px;
     box-sizing: border-box;
     transition: 0.5;
 }
@@ -263,5 +262,13 @@ h2{
 
 =======
 
-
->>>>>>> 051ff72adfbbf506db8100a2ab5e914b919dac74
+.top {
+    text-decoration: none;
+    padding: 20px;
+    font-family: sans-serif;
+    color: #fff;
+    background: rgb(116, 8, 126);
+    border-radius: 150px;
+  }
+  
+>>>>>>> a17731d8ab17126475c110d5360295cdd86dbf78
